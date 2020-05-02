@@ -1,0 +1,49 @@
+.AboutMe{
+    background-color: #333;
+}
+
+.head {
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-size: 50px;
+}
+
+.head img{
+    width: 100%;
+}
+
+.GenInfo {
+    border-radius: 50%;
+    background-color:#333;
+    color: white;
+    float: left;
+    width: 33%;
+    text-align: center;
+    height: 500px;
+
+}
+
+.Location {
+    border-radius: 50%;
+    color: white;
+    background-color: #333;
+    float: left;
+    width: 33%;
+    text-align: center;
+    height: 500px;
+}
+
+ p {
+    padding: 50px;
+}
+
+.Hobbies {
+    border-radius: 50%;
+    color: white;
+    background-color: #333;
+    float: left;
+    text-align: center;
+    width: 33%;
+    height: 500px;
+}

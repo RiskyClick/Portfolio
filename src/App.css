@@ -1,0 +1,18 @@
+.App {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.App h1{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+}
+
+.App img {
+  width: 100%;
+  height: auto;
+}

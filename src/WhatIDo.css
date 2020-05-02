@@ -1,0 +1,28 @@
+.WhatIDo {
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 50px
+}
+
+.left {
+    float: left;
+    border-radius: 15%;
+
+    background-color: #4d4e4f;
+    width: 49%;
+    height: 250px;
+}
+
+.right {
+    border-style: solid;
+    border-color: hotpink;
+    float: right;
+    background-color: #2d2e2e;
+    width: 49%;
+    height: 250px;
+
+}
