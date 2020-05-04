@@ -1,17 +1,15 @@
 import React from 'react';
 import './AboutMe.css';
-import wood from './wood.jpg';
 
 class AboutMe extends React.Component{
     render(){
         return(
             <div className="AboutMe">
                 <div className="head">
-                    <img className="pic" src={wood}/>
-                    <p>About</p>
+                    <h1>About</h1>
                 </div>
                 <div className="GenInfo">
-                    <h1>What I Do</h1>
+                    <h2>What I Do</h2>
                     <p>
                         Fresh off the college circut with a Bachelors in Computer Science. 
                         I feel in love with many aspects of computere science. It trully is a fasinating disapline
@@ -21,11 +19,11 @@ class AboutMe extends React.Component{
                     </p>
                 </div>
                 <div className="Location">
-                    <h1>Location</h1>
+                    <h2>Location</h2>
                     <p>I currently reside in San Francisco. Im a bay area native but have also lived in Napa, Sonoma counties. I was also casing bigfoot in Oregon for a little while</p>
                 </div>
                 <div className="Hobbies">
-                    <h1>Intrestes</h1>
+                    <h2>Intrestes</h2>
                     <p>
                         I dont care about your sport team but i will talk about stand up comedy all day. 
                         I love to cook and mix up cocktails. I am definity a hippy at hart and love to go camping. 
