@@ -1,13 +1,12 @@
-html {
-    background-color: ;
-}
-
 .WhatIDo{
     text-align: center;
-    width: 50%;
+    width: 100%;
     margin: auto;
     color: white;
     padding-bottom: 250px;
-    border-top: yellow;
-    border-style: solid;
+    background-color: #333;
+}
+
+h1{
+    padding: 50px;
 }

@@ -1,7 +1,8 @@
 .App {
   position: relative;
   text-align: center;
-  color: white;
+  font-weight: bolder;
+  color: Black;
 }
 
 .App h1{
