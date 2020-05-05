@@ -5,13 +5,20 @@ class WhatIDo extends React.Component{
     render(){
         return(
             <div className="WhatIDo">
-                <h1>Projects</h1>
-                <h2>Cocktail Recomendation App</h2>
-                <p>here is some info explaing that</p>
-                <h2>Arcade</h2>
-                <p>Program with a bunch of games in it</p>
-                <h2>Other Thing</h2>
-                <p>Here is more info on other things</p>
+                <div className='head'>
+                    <h1>Projects</h1>
+                </div>
+                
+
+                <div class="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div class="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                
             </div>
         );
     }

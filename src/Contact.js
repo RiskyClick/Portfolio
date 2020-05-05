@@ -9,8 +9,8 @@ class Contact extends React.Component{
 
     componentDidMount() {
         window.scroll({
-            top: 100,
-            left: 100,
+            top: 0,
+            left: 0,
             behavior: 'smooth'
           });
     }
