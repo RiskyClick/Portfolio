@@ -1,22 +1,27 @@
 .UpButt {
-    display: inline-block;
-    padding: 15px 25px;
-    font-size: 24px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    outline: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 15px;
-    box-shadow: 0 9px #999;
-  }
+  float: right;
+  position: fixed;
+  top: 90%;
+  right: 2%;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: #00173d;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 2px 5px #999;
+}
   
-  .UpButt:hover {background-color: #3e8e41}
+.UpButt:hover {
+  background-color: #00245e;
+}
   
-  .UpButt:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
-  }
+.UpButt:active {
+  background-color: #00245e;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}

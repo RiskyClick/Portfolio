@@ -5,16 +5,80 @@ class WhatIDo extends React.Component{
     render(){
         return(
             <div className="WhatIDo">
-                <div className='head'>
+                <div class='head'>
                     <h1>Projects</h1>
                 </div>
                 
 
-                <div class="Projects">
+                <div className="Projects">
                     <h2>Column 1</h2>
                     <p>Some text..</p>
                 </div>
-                <div class="Projects">
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 2</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
+                    <h2>Column 1</h2>
+                    <p>Some text..</p>
+                </div>
+                <div className="Projects">
                     <h2>Column 2</h2>
                     <p>Some text..</p>
                 </div>
