@@ -18,7 +18,7 @@ class Contact extends React.Component{
     render(){
         return(
             <div className='Contact'>
-                <button className="UpButt" onClick={this.componentDidMount}>Up</button>
+                <button className="UpButt" onClick={this.componentDidMount}>Eject</button>
             </div>
         );
     }

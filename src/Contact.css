@@ -9,19 +9,19 @@
   text-align: center;
   text-decoration: none;
   outline: none;
-  color: white;
-  background-color: #00173d;
+  color: #e8ddcb;
+  background-color: #93291E;
   border: none;
-  border-radius: 15px;
+  border-radius: 100%;
   box-shadow: 2px 5px #999;
 }
   
 .UpButt:hover {
-  background-color: #00245e;
+  background-color: #93291E;
 }
   
 .UpButt:active {
-  background-color: #00245e;
+  background-color: #93291E;
   box-shadow: 0 5px #666;
   transform: translateY(2px);
 }

@@ -1,30 +1,37 @@
-.WhatIDo { 
-  display: grid; 
-  grid-template-columns: repeat(2, 1fr); 
-  grid-auto-rows: 100px; 
-  background-color: #333;
-  color: white;
-} 
-
-.WhatIDo img {
-  max-width: 125px;
-  margin-right: 50px;
-}
-
-.head { 
-  grid-column-start: 1; 
-  grid-column-end: 3; 
-  grid-row-start: 1; 
-  grid-row-end: 2; 
+.WhatIDo .head {
+  color: black;
   text-align: center;
-  font-size: 75px;
+  font-size: 100px;
+  width: 100%;
+  margin: auto
 }
 
-.Projects{
-  text-align: center;
-  margin-top: 250px;
+.WhatIDo .Projects h2 {
+  font-size: 50px;   
+  
 }
 
-.Projects img {
-  max-width: 50px;;
+.WhatIDo .Projects p {
+  font-size: 25px; 
+  margin: 75px;
 }
+
+.WhatIDo .Projects {
+  color: black;
+  width: 50%;
+  text-align: center; 
+  float: left;
+}
+
+.WhatIDo .Projects img {
+  max-width: 50px;
+  padding-right: 50px;
+}
+
+.WhatIDo .head img {
+  max-width: 100px;
+  padding-right: 50px;
+}
+
+
+

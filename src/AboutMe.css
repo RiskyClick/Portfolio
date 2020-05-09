@@ -1,5 +1,8 @@
 html {
-    background-color: #4d4e4f;
+    background-color:#242527;
+    background: linear-gradient(135deg, rgba(3,22,52,1) 0%, rgba(3,54,73,1) 24%,
+                                        rgba(3,101,100,1) 48%, rgba(205,179,128) 72%,
+                                        rgba(232,221,203) 100%);
 }
 
 .AboutMe h1{
@@ -7,10 +10,18 @@ html {
     margin-bottom: 0;
 }
 
+.AboutMe h2{
+    font-size: 50px;
+}
+
+.AboutMe p{
+    font-size: 25px;
+}
+
 .AboutMe {
     margin: auto;
     text-align: center;
     width: 50%;
-    color: white;
+    color: black;
     padding-bottom: 250px;
 }
