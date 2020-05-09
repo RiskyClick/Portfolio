@@ -1,5 +1,10 @@
 import React from "react";
 import './Nav.css';
+import Link from './Pics/LinkedIn.png';
+import About from './Pics/me.png';
+import Projects from './Pics/Projects.png';
+import Hub from './Pics/GitHub.png';
+
 
 class Nav extends React.Component{
     constructor(props){
@@ -9,7 +14,7 @@ class Nav extends React.Component{
 
     about() {
         window.scrollTo({
-            top: 1135,
+            top: 1180,
             left: 0,
             behavior: 'smooth'
           });
@@ -28,11 +33,10 @@ class Nav extends React.Component{
         return (
             <div className='NavBar'>
                 <ul>
-                    <li><button className='about' onClick={this.about}>About Me</button></li>
-                    <li><button className='projects' onClick={this.projects}>Projects</button></li>
-                    <li><a href="https://www.linkedin.com/in/keitherich/">linkedin</a></li>
-                    <li><a href="https://github.com/RiskyClick">GitHub</a></li>
-                    <li><a href="https://www.linkedin.com/in/keitherich/">linkedin</a></li>
+                    <li onClick={this.about}><img src = { About }/></li>
+                    <li onClick={this.projects}><img src = { Projects }/></li>
+                    <a href="https://www.linkedin.com/in/keitherich/"><li><img src = { Link }/></li></a>
+                    <a href="https://github.com/RiskyClick"><li><img src = { Hub }/></li></a>
                 </ul>      
             </div>
         );
