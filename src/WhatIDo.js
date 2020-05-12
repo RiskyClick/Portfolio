@@ -15,42 +15,44 @@ class WhatIDo extends React.Component{
                 <div className="Projects">
                     <h2><a href="https://github.com/RiskyClick/Portfolio"><img src = { hub } /></a>This Website</h2>
                     <p>
-                        Check it out. Build using a React app and Node.js.
-                        This is the first website i have built. Ill continue to add 
-                        to the website as i learn more about web development.
+                        Check it out. You can click on buttons and stuff. This is the first website I have build and I 
+                        did so using React.js, Node, HTML, CSS, and Javascript. 
+                        I'm delving into the riveting and exciting world of databases and backend engineering right now. 
+                        Keep an eye on my GitHub to see where my progress is at.
+                        I will continue to make changes to the website as I learn more.
                     </p>
                 </div>
                 <div className="Projects">
                     <h2><a href="https://github.com/RiskyClick/CocktailRecommendation"><img src = { hub } /></a>Cocktail Recommender</h2>
                     <p>
-                        A java application that returns a cocktail recomendation 
-                        from a user provided flavor profile. For example, if you 
-                        weere to input "Booze forward with rye not sweet" you would get 
-                        a old fastion or manhhatted. The algoryum useses a passed in hashmap
-                        that tokenizes the user input string and compares a bla bla bla
+                        A program I built using Java that returns a recommended cocktail from the user-provided flavor profile. 
+                        I made all the algorithms myself and built a simple GUI using java swing and AWT libraries.
+                        It works pretty great right now but there is definitely some need for improvement. 
+                        Future endeavors are to make a robot bartender where I can put this program in and put myself out of a job.
                     </p>
                 </div>
                 <div className="Projects">
                     <h2><a href="https://github.com/RiskyClick/Games"><img src = { hub } /></a>Arcade</h2>
                     <p>
-                        A java program containing my verstions of classsic games like astroids, glactice mail
-                        and others. I will periodicly program more and more game to add to the program allowing
-                        users of the prgram many choices.
+                    Another Java application that allows users to choose from some classic arcade games I have created. 
+                    So far I have astroids, Glactice mail, and space invaders with a huge surplus of artistic liberties.
                     </p>
                 </div>
                 <div className="Projects">
                     <h2><a href="https://github.com/RiskyClick/PointOfSale"><img src = { hub } /></a>Point Of Sale</h2>
                     <p>
-                        A retooled verstion of a point of sale machine commonly found in a resturant our bar
-                        there is a high level of cusamizabilyty but without so much that it interfears with
-                        the ablity to input what you need fast.
+                        A retooled point of sale program that you often see being used in restaurants and bars. 
+                        Done using Java but since I am not enjoying the layout so far I might swap this over to a python app because of the huge array of modules.
+                        A major problem with the current models is the internet is dependent on it. So if a restaurant's internet cuts out 
+                        it can cause issues with everyone involved. My hope is to have this POS machine not be depended on internet connection and 
+                        still work at communicating with the other devices in the resultant
                     </p>
                 </div>
                 <div className="Projects">
                     <h2><a href="https://github.com/RiskyClick/SFSU-Projects"><img src = { hub } /></a>SFSU Projects</h2>
                     <p>
-                        All the assigmenest i did at SFSU ranging from a terminal witten in C 
-                        to a multiplayer game built useing Untiy collaborating with a team of 8 individuals.
+                        The majority of the projects and assignments I had while at SFSU. 
+                        The assignments are everything from making your own terminal in C to a multiplayer video game built using Unity3d.
                     </p>
                 </div>                
             </div>

@@ -13,26 +13,28 @@ class AboutMe extends React.Component{
                 <div className="GenInfo">
                     <h2>Changing Up the Career</h2>
                     <p>
-                        Fresh off the college circut. Doing the carrer change dance out of bartending and into tech.
-                        I just Granduated from San Francisco State Univerity, Home of the purple aligators for some reason.
-                        Actually, they were named after the Golden Gate Bridge and AKA the 'Gaters' and sombody got cheeky with it.
-                        But i Digress.
+                        Fresh off the college circuit. Doing the career change dance out of bartending and into the tech.domain.
+                        I just graduated from San Francisco State Univerity, Home of the purple alligators for some reason.
+                        Take your time and have a look at my website. I'm super excited to have this website up and running.
+                        I'm going to continue to change up the website as a learn more about web development so be sure to come back and visit.
+                        If you need to get ahold me my contact information is at the top of the page in the Navigation bar.
                     </p>
                 </div>
                 <div className="Location">
                     <h2>Bay Area Resident</h2>
                     <p>
-                        Been living in San Francisco proper for about 5 years now but am originally fromn the north bay.
-                        Thats right, im a Califonia native and yeah, I probly will eat your avacados.
-                        And no, I wont cut my hair... im acutally bald so.
+                        I am originally from the North Bay, Sonoma County area. I have been living in San Francisco proper for almost five years. 
+                        Shout out to the Inner Richmond. I have always wanted to live, work, and be apart of Silicon Valley and all it has to offer. 
                     </p>
                 </div>
                 <div className="Hobbies">
-                    <h2>Intrestes</h2>
+                    <h2>What I Like</h2>
                     <p>
-                        I dont care about your sport team but i will talk about stand up comedy all day. 
-                        I love to cook and mix up cocktails. I am definity a hippy at hart and love to go camping. 
-                        Unlike most of the introverted, quite, wirdos of the computer sciecne world i can hold a converstation.
+                        I am a beard-o that loves the outdoors and camping. I love stand-up comedy and social documentaries. 
+                        I am passionate about cooking but would rather eat. I enjoy mixing cocktails and hanging out with my cat Wednesday. 
+                        She tolerates me enough to allow four chin scritches a day. I'm hoping to get up to five by the end of the year but her demeanour says otherwise. I'll let you tell me about your favourite sports teams if you let me tell you about my favourite indoor plants. 
+                        Spelling, grammar and I are in a hate triangle. Ten points to Gryffindor if you catch 
+                        a spelling error on my page.
                     </p>
                 </div>
             </div>

@@ -22,7 +22,7 @@ class Nav extends React.Component{
 
     projects(){
         window.scrollTo({
-            top: 5000,
+            top: 3150,
             left: 0,
             behavior: 'smooth'
           });
