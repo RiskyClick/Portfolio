@@ -7,14 +7,12 @@ import WhatIDo from './WhatIDo';
 import Contact from './Contact';
 import Nav from './Nav';
 
-ReactDOM.render(
-  <React.StrictMode>
+ReactDOM.render(<React.StrictMode>
       <Nav />
-    <App />
-    <AboutMe />
-    <WhatIDo />
-    <Contact />
-  </React.StrictMode>,
-  document.getElementById('root')
+      <App />
+      <AboutMe />
+      <WhatIDo />
+      <Contact />
+  </React.StrictMode>, document.getElementById('root')
 );
 
